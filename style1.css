@@ -1,5 +1,13 @@
-#menu {
-    background-color: gold;
-    list-style-type: none;
-    display:run-in;
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: lightgray;
+    text-align: center;
+    color: blue;
+}
+.menu li {
+    display: inline-block;
+    margin-right: 20px;
+   
 }
